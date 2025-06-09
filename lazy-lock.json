@@ -1,15 +1,23 @@
 {
+  "Comment.nvim": { "branch": "master", "commit": "e30b7f2008e52442154b66f7c519bfd2f1e32acb" },
   "coc.nvim": { "branch": "release", "commit": "49a058cea069d51de81a9fdf848a4db031ea9143" },
   "command-completion.nvim": { "branch": "main", "commit": "56c98f8d59a88ed96a80d43abca74a60ba31ea3a" },
+  "copypath.vim": { "branch": "master", "commit": "b7c5e7f6287105856a6d67dd3a0061f1c6f020be" },
   "ctrlp.vim": { "branch": "master", "commit": "475a864e7f01dfc5c93965778417cc66e77f3dcc" },
-  "grug-far.nvim": { "branch": "1.6.3", "commit": "29f460c5c24765cba54952ce2de781e5d82ee6f6" },
+  "editorconfig.nvim": { "branch": "master", "commit": "67758c3e8a2f79019322a60013e4ce0aad09dafa" },
+  "grug-far.nvim": { "branch": "main", "commit": "7df08fff7da6ee08006fe8eaccc3407b89da368b" },
+  "hop.nvim": { "branch": "master", "commit": "1a1eceafe54b5081eae4cb91c723abd1d450f34b" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
   "nvim-rg": { "branch": "main", "commit": "38b221cefbfb57547c0c6952a1e049d840b2fdfb" },
   "nvim-tree.lua": { "branch": "master", "commit": "be5b788f2dc1522c73fb7afad9092331c8aebe80" },
   "nvim-web-devicons": { "branch": "master", "commit": "1fb58cca9aebbc4fd32b086cb413548ce132c127" },
   "onedark.nvim": { "branch": "master", "commit": "11de4da47f3e69cb70c3ae9816bd8af166cbe121" },
+  "undotree": { "branch": "master", "commit": "b951b87b46c34356d44aa71886aecf9dd7f5788a" },
   "vim-airline": { "branch": "master", "commit": "41c5f54507fd865c8c00fe1f4bb390a59b6894ef" },
+  "vim-bufkill": { "branch": "master", "commit": "3113181d0c1bfb8719f3ddcd2e2f35a8d763d1e5" },
   "vim-fugitive": { "branch": "master", "commit": "4a745ea72fa93bb15dd077109afbb3d1809383f2" },
+  "vim-visual-multi": { "branch": "master", "commit": "a6975e7c1ee157615bbc80fc25e4392f71c344d4" },
   "wilder.nvim": { "branch": "master", "commit": "679f348dc90d80ff9ba0e7c470c40a4d038dcecf" },
-  "winpick.nvim": { "branch": "trunk", "commit": "044623e236750a2f61a2cb96ce0833e113921b88" }
+  "winpick.nvim": { "branch": "trunk", "commit": "044623e236750a2f61a2cb96ce0833e113921b88" },
+  "wrapping.nvim": { "branch": "master", "commit": "f26fdeabd17cf1bf5197badbdadc2e2f08b6ab0f" }
 }

@@ -1,0 +1,5 @@
+{
+  "tsserver.maxTsServerMemory": 6144,
+  "suggest.noselect": true
+}
+
