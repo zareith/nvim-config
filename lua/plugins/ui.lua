@@ -36,10 +36,6 @@ return {
 		lazy = false
 	},
 	{
-		"ctrlpvim/ctrlp.vim",
-		lazy = false
-	},
-	{
 		"duane9/nvim-rg",
 		lazy = false
 	},
@@ -58,6 +54,11 @@ return {
 		-- additional lazy config to defer loading is not really needed...
 		config = function()
 			require('grug-far').setup({
+				engines = {
+					ripgrep = {
+						extraArgs = '-i'
+					}
+				}
 				-- options, see Configuration section below
 				-- there are no required options atm
 			});

@@ -23,3 +23,8 @@ vim.keymap.set("n", "<Leader>F", '<cmd>:Format<cr>')
 vim.keymap.set("n", "s", '<cmd>:HopChar1<cr>')
 vim.keymap.set("n", "<Leader>SS", '<cmd>:GrugFar<cr>')
 vim.keymap.set("n", "<Leader>tf", '<cmd>:NvimTreeFindFile<cr>')
+
+vim.keymap.set("n", "<Leader>tf", '<cmd>:NvimTreeFindFile<cr>')
+vim.keymap.set("n", "<C-p>", '<cmd>:FzfLua files<cr>')
+vim.keymap.set("n", "<C-A-p>", '<cmd>:FzfLua buffers<cr>')
+
