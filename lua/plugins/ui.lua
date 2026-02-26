@@ -84,7 +84,13 @@ return {
     {
         "mg979/vim-visual-multi",
         lazy = false,
-        event = "BufRead"
+        event = "BufRead",
+        init = function()
+            vim.g.VM_maps = {
+                ["Find Under"]         = "<M-j>",
+                ["Find Subword Under"] = "<M-j>",
+            }
+        end
     },
     {
         "qpkorr/vim-bufkill",

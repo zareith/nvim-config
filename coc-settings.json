@@ -1,5 +1,11 @@
 {
-  "tsserver.maxTsServerMemory": 6144,
-  "suggest.noselect": true
+  "typescript.preferences.maxTsServerMemory": 8192,                                                                                                                        
+  "javascript.preferences.maxTsServerMemory": 8192,                                                                                                                        
+  "tsserver.maxTsServerMemory": 8192,
+  "tsserver.nodejs": {                                                                                                                                                     
+    "runtimeArgs": [                                                                                                                                                       
+      "--max-old-space-size=8192"                                                                                                                                          
+    ]                                                                                                                                                                      
+  }
 }
 
